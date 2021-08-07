@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroundTransport", "GroundTransport\GroundTransport.csproj", "{3D0D4D36-6639-459E-A863-ED4562ECEF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0D4D36-6639-459E-A863-ED4562ECEF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0D4D36-6639-459E-A863-ED4562ECEF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0D4D36-6639-459E-A863-ED4562ECEF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0D4D36-6639-459E-A863-ED4562ECEF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12BCBED-DAAC-4CC1-8E11-DE491D891D35}
+	EndGlobalSection
+EndGlobal
